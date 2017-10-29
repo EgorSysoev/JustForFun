@@ -1,3 +1,4 @@
 This is a text file.
 This line was edited.
 Added third line
+New branch
